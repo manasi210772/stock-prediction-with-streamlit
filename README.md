@@ -20,7 +20,7 @@ The app predicts future stock prices based on historical data and displays both 
 ### 1. Choose Stock & Display Predicted Price
 ![Choose Stock and Prediction Screenshot](./screenshots/Screenshot1.png)
 
-### 2. Visualize Predicted vs Actual Prices
+### 2. Visualize Prices
 ![Graph Screenshot](./screenshots/Screenshot2.png)
 
 ---
@@ -43,7 +43,7 @@ Follow these steps to run the app locally:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/manasi210772/stock-prediction.git
+git clone https://github.com/manasi210772/stock-prediction-with-streamlit.git
 
 # 2. Navigate to the project directory
 cd stock-prediction
