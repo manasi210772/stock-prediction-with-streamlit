@@ -18,10 +18,10 @@ The app predicts future stock prices based on historical data and displays both 
 ## Demo Screenshots
 
 ### 1. Choose Stock & Display Predicted Price
-![Choose Stock and Prediction Screenshot](./screenshots/Screenshot 2025-10-22 234858.png)
+![Choose Stock and Prediction Screenshot](./screenshots/Screenshot1.png)
 
 ### 2. Visualize Predicted vs Actual Prices
-![Graph Screenshot](./screenshots/Screenshot 2025-10-22 234915.png)
+![Graph Screenshot](./screenshots/Screenshot2.png)
 
 ---
 
