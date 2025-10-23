@@ -23,8 +23,6 @@ The app predicts future stock prices based on historical data and displays both 
 ### 2. Visualize Predicted vs Actual Prices
 ![Graph Screenshot](./screenshots/Screenshot 2025-10-22 234915.png)
 
-> *(Make sure your screenshots are stored in a folder named `screenshots` inside your project directory.)*
-
 ---
 
 ## Tech Stack
